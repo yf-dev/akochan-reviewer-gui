@@ -1,0 +1,1 @@
+pyinstaller -F --windowed --distpath . build.spec

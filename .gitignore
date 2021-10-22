@@ -1,0 +1,5 @@
+akochan-reviewer/
+build/
+akochan-reviewer-gui.exe
+__pycache__/
+build.spec
